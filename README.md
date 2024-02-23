@@ -6,4 +6,4 @@ Dette er et skole prosjekt hvor vi skal lage en AI som kan lese PDF filer og sum
 - Pål - Medie produsent
 - Isac - Medhjelper til Nikolas
 
-## 
+## halla balla:)
